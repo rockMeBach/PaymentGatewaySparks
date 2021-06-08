@@ -43,6 +43,10 @@ h1{
   font-weight: bold;
 }
 
+.nav-icons{
+  font-size: 25px;
+}
+
 #title{
   background-image: url("../images/wall.jpg");
   background-size: cover;
